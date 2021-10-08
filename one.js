@@ -1,3 +1,3 @@
-const mul = (a, b) => {
+module.exports.mul = (a, b) => {
     return a * b
 }
